@@ -5,8 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-you should find the wrong word
+
 <!---
 andyfeez7777/andyfeez7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview Link to take a look at your changes.
 --->
+
